@@ -30,7 +30,7 @@ pip install requirements.txt
 ### Execute the file:
 
 ```
-python crawler.py
+python spider.py
 ```
 
 Wait for sometime :) Enjoy Crawling :)
