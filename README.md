@@ -17,6 +17,8 @@ git clone https://github.com/muraliselva10/crawler.git
 pip install requirements.txt
 ```
 
+**Note:** Please install the dependency manually eventhough above command fails, This is must for going ahead.
+
 ### Edit the file based on your requirement:
 
 #### Add your URl here:
